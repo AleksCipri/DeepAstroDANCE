@@ -1,6 +1,6 @@
 # DeepAstroDANCE
 Universal Unsupervised Domain Adaptation for Galaxy Morphology Characterization Across Domains
 
-<img src="images/astro_dance.png" width="100">
+<img src="images/astro_dance.png" width="400">
 
-![](images/astro_dance.png=50x)
+
