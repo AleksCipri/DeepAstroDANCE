@@ -6,7 +6,7 @@
 
 ## Directory TODO ##
 
-[ ] Upload new code files
-[ ] Upload metric plots
+- [ ] Upload new code files
+- [ ] Upload metric plots
 
 
