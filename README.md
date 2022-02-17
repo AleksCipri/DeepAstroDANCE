@@ -1,2 +1,2 @@
 # DeepAstroDANCE
-Universal Domain Adaptation for Galaxy Morphology Characterization Across Domains
+Universal Unsupervised Domain Adaptation for Galaxy Morphology Characterization Across Domains
