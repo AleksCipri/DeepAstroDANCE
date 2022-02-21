@@ -1,3 +1,5 @@
+#Produces per mean class accuracy, total accuracy, closed accuracy
+
 from __future__ import print_function
 import yaml
 import easydict
