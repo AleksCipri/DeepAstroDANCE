@@ -1,0 +1,2 @@
+Use this command for downloading packages to the virtual environment: 
+/Users/good_n_employed/Documents/fermilab/HVAI/.venv/bin/python3 -m pip install [package_name]
